@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titulo de la app. -->
+    <string name="app_name">Notas Rápidas</string>
+    <!-- Titulos de los activitys. -->
+    <string name="title_activity_detalles">Nota</string>
+    <!-- Botones. -->
+    <string name="btn_cancel">CANCELAR</string>
+    <string name="btn_save">GUARDAR</string>
+    <string name="btn_delete">ELIMINAR</string>
+    <string name="btn_edit">EDITAR</string>
+    <!-- Textos. -->
+    <string name="empty_notes">no hay notas.</string>
+    <string name="input_text">Introduzca el texto aqui...</string>
+    <string name="delete">Eliminar</string>
+	<!-- Mensajes -->
+	<string name="success_save">¡Ok Datos Guardados!</string>
+	<string name="success_delete">¡Ok Datos Borrados!</string>
+	<string name="question_delete">¿Desea eliminar esta nota?</string>
+</resources>
